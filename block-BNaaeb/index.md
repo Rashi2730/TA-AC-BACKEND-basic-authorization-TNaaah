@@ -15,7 +15,7 @@ An admin can list podcasts in 3 different sections
 
 An user can logIn as a
 
-1. Free
+1. Free  zdkjbvjdsrknb;geal'nh"as 
 2. VIP member
 3. PREMIUM member
 
